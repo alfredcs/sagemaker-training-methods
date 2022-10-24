@@ -8,18 +8,18 @@ Amazon SageMaker Immersion Day help customers and partners to provide end to end
 
 SageMakwer supports the following training methods:
 * [Use Built-in Algorithms](xgboost_direct_marketing_sagemaker.ipynb)
-* [Bring Your Own Container]()
-* [Bring Your Own Scripts]()
-* [Use AutoPilot]()
+* [Bring Your Own Container](bring-custom-container.ipynb)
+* [Bring Your Own Scripts](bring-custom-script.ipynb)
+* [Use AutoPilot](sagemaker_autopilot_direct_marketing.ipynb)
 
 In addition, SageMaker also offers productivity enhancement features including:
-* [Hyperparameter Optimization]()
-* [Integrate with Feature Store]()
-* [Leverage Experiment]()
-* [Integrate with Debugger]()
-* [Deploy Trained Model with Model Monitoring]()
-* [Work with Scikit Learn]()
-* [Data Pre-Processing]()
+* [Hyperparameter Optimization](hpo_xgboost_direct_marketing_sagemaker_python_sdk.ipynb)
+* [Integrate with Feature Store](feature_store_xgboost_direct_marketing_sagemaker.ipynb)
+* [Leverage Experiment](xgboost_experiments.ipynb)
+* [Integrate with Debugger](xgboost_debugger_demo.ipynb)
+* [Deploy Trained Model with Model Monitoring](SageMaker-ModelMonitoring.ipynb)
+* [Work with Scikit Learn](sklearn-end2end.ipynb)
+* [Data Pre-Processing](processing_xgboost.ipynb)
 
 Find details on each lab here - https://sagemaker-immersionday.workshop.aws/ 
 
